@@ -12,12 +12,13 @@ A Power BI report on 1.74M call-center calls (Feb to Apr), built to answer one q
 | Home | 
 |---|
 | ![Home](home.png) | 
-| Overview | Overview-filter |
+| Home | Overview |
 |---|---|
-![Overview](Overiew.png) |  ![Overview-filter](Overview-filter.png) |
+| ![Home](home.png) | ![Overview](oveview.png) |
+
 | Agent | Why |
 |---|---|
-|![Agent](Agent.png) | ![why](why.png) |
+| ![Agent](Agent.png) | ![Why](why.png) |
 
 ## Key measures (DAX)
 ```dax
