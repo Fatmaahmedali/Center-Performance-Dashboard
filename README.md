@@ -14,7 +14,7 @@ A Power BI report on 1.74M call-center calls (Feb to Apr), built to answer one q
 | ![Home](home.png) | 
 | Overview | Overview-filter |
 |---|---|
-![Overview](Overiew.png) |  ![Overview](Overview-filter.png)
+![Overview](Overiew.png) |  ![Overview-filter](Overview-filter.png)
 
 | Agent | Why |
 |---|---|
