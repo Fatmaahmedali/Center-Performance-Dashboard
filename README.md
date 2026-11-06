@@ -10,9 +10,9 @@ A Power BI report on 1.74M call-center calls (Feb to Apr), built to answer one q
 
 ## Pages
 | Home | 
-|---|---|
+|---|
 | ![Home](home.png) | 
-|Overview |
+| Overview | Overview-filter |
 |---|---|
 ![Overview](Overiew.png) |  ![Overview](Overview-filter.png)
 
@@ -40,6 +40,11 @@ RETURN IF(o > f, "Actual above forecast", "Actual at or below forecast")
 - Day-level detail is from March only. Correlation is not proof of cause.
 - Agent results depend on project and daily load, so compare agents within the same project.
 
+## Files
+- `report/Call-Center-Performance.pbix`: the Power BI report (open with Power BI Desktop, which is free).
+- `data/`: the source CSV.
+
+To open it, download the `.pbix` and open it in Power BI Desktop. If it asks for the data source, go to Home > Transform data > Data source settings > Change Source and point to the CSV in `data/`.
 ## Notes
-- Sample data. Agent names are fictional.
+- Dataset provided by the Mazen Analysis course. The analysis, DAX measures and report design are my own work.
 - Built with Power BI Desktop.
