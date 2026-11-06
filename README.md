@@ -13,9 +13,9 @@ A 4-page Power BI report on 1.74M call-center calls (Feb to Apr), built to answe
 |---|---|
 | ![Overview](Overview.png) | ![Overview](Overviewfilter.png) |
 
-| Forecast | Why |
+| Agent | Why |
 |---|---|
-|  ![Agent](Agent.png) | ![Why](Why.png) |
+|  ![Agent](Agent.png) | ![why](why.png) |
 
 ## Key measures (DAX)
 - Service Level % = calls answered within threshold / calls offered
