@@ -11,7 +11,7 @@ A 4-page Power BI report on 1.74M call-center calls (Feb to Apr), built to answe
 ## Pages
 | Overview | Agent |
 |---|---|
-| ![Overiew](Overiew.png) | ![Overview](Overview_filter.png) |
+| ![Overiew](Overiew.png) | ![Overview](Overviewfilter.png) |
 
 | Agent | Why |
 |---|---|
