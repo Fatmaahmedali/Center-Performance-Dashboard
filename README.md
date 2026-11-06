@@ -1,4 +1,3 @@
-# Center-Performance-Dashboard
 # Call Center Performance Dashboard (Power BI)
 
 A 4-page Power BI report on 1.74M call-center calls (Feb to Apr), built to answer one question: **why did service drop in March?**
@@ -12,11 +11,11 @@ A 4-page Power BI report on 1.74M call-center calls (Feb to Apr), built to answe
 ## Pages
 | Overview | Agent |
 |---|---|
-| [Overiew.png](https://github.com/Fatmaahmedali/Center-Performance-Dashboard/blob/main/Overiew.png?raw=true)| !Overiew filter.png |
+| ![Overview](Overview.png) | ![Agent](Agent.png) |
 
 | Forecast | Why |
 |---|---|
-| ![Forecast](images/03-forecast.png) | ![Why](images/04-why.png) |
+| ![Forecast](03-forecast.png) | ![Why](04-why.png) |
 
 ## Key measures (DAX)
 - Service Level % = calls answered within threshold / calls offered
